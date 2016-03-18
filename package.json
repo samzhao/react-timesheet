@@ -2,7 +2,7 @@
   "name": "react-timesheet",
   "version": "0.1.0",
   "description": "Time Sheet Component for React",
-  "main": "src/TimeSheet.js",
+  "main": "dist/react-timesheet.min.js",
   "author": "Yuanyan Cao",
   "license": "MIT",
   "repository": {
